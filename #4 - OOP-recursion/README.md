@@ -2,7 +2,7 @@
 
 Our task today is to be hungry (hungry for knowledge, mostly). 
 
-Problem: We have a scenario with a fridge where we can put food items, maintain a food recipe book and check if 
+**problem**: We have a scenario with a fridge where we can put food items, maintain a food recipe book and check if 
 we have enough ingredients in the fridge to prepare those items.
 
 ### implement the following: 
